@@ -1,1 +1,1 @@
-reverse the decoded file!
+reverse the encoded file!
